@@ -1,0 +1,65 @@
+body {
+  background: skyblue;
+  font-family: Verdana;
+  color: #fff;
+  padding: 30px;
+}
+h1{
+  font-size: 48px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+}
+p{
+  font-size: 16px;
+  text-align: center;
+}
+
+/* CONTACT PAGE */
+body {
+  background: skyblue;
+  font-family: Verdana;
+  color: #fff;
+  padding: 30px;
+}
+h1{
+  font-size: 48px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+}
+p{
+  font-size: 16px;
+  text-align: center;
+}
+label{
+  display: block;
+  margin-top: 1.5rem;
+}
+input{
+  margin-top: 0.5rem;
+}
+
+/* PROFILE PAGE */
+body {
+  background: skyblue;
+  font-family: Verdana;
+  color: #fff;
+  padding: 30px;
+}
+h1{
+  font-size: 48px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+}
+p{
+  font-size: 16px;
+  text-align: center;
+}
+h2{
+  font-size: 48px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+}
